@@ -103,6 +103,10 @@ img{
   padding-top: 3rem;
   padding-bottom: 2rem;
 }
+.experience__logo1 {
+  width: 15%;
+  height: 15%;
+}
 
 /*===== LAYOUT =====*/
 .bd-grid{
